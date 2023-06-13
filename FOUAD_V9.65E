@@ -1,23 +1,34 @@
 {
- "version":"35",
- "title":"🚨 Atualização anti-banimento 🚨",
- "description":"✔FouadWhatsApp Oficial V9.65
+ "version":"36",
+ "title":"🚨 Nova Atualização 🚨",
+ "description":"✔FouadWhatsApp Oficial V9.70F
 
-Base: 2.23 1.76
+🟡 Base:  2.23.9.75
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+ 〰〰〰〰〰〰〰〰〰〰〰〰〰
 
- ❗️ Verifique novamente o SMS se você foi banido antes e instale o 9.65
+ ➖ O que há de novo em 9.70
 
- ➖ Novidade na versão 9.65
+Exclusivo] Opção de backup/restauração de mídia (imagens, vídeos, etc.)
+ —> FMWA > Universal > Backup e restauração
+ - Útil para usuários do Android 11+ para fazer backup da mídia antes da desinstalação
 
-🛡 Proteção anti-ban fortemente aprimorada 🛡
+ ➕ Adicionado: Pacote de emojis iOS 2023 (FMMods > Universal > Estilos)
 
-✅ Correção do problema de banimento de 1 hora para alguns usuários 🕐
-
-
-🔘 Ativada a opção de editar as mensagens enviadas✏️
+✔️[Ativado] Receba mensagens fixadas de outras pessoas
+ 
+✔️[Ativado] Transferir bate-papos entre telefones sem GDrive (Configurações > Bate-papos)
+ 
+✔️ [Habilitado] Pin Message em chats privados
+ 
+✔️ [Ativado] Editar mensagens
+ 
+✔️ Ativado: conversas bloqueadas oficiais (página de informações do bate-papo > bloqueio)
+ 
+✔️ Ativado: foto dos membros do grupo no chat (oficial por WA)
+ 
+🛠 Corrigido: Falha ao clicar na comunidade
 
 ❤ E muito mais recursos e melhorias!.",
-"download":"https://youtu.be/XRmrveu-ZJs"
+"download":"https://youtu.be/843dkL-8O3s"
 }
